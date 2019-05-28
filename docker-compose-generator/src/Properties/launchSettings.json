@@ -4,11 +4,7 @@
       "commandName": "Project",
       "commandLineArgs": "pregen",
       "environmentVariables": {
-        "BTCPAYGEN_LIGHTNING": "clightning",
-        "BTCPAYGEN_CRYPTO4": "ftc",
-        "BTCPAYGEN_CRYPTO3": "btg",
-        "BTCPAYGEN_CRYPTO2": "ltc",
-        "BTCPAYGEN_CRYPTO1": "btc",
+        "BTCPAYGEN_CRYPTO1": "dash",
         "BTCPAYGEN_REVERSEPROXY": "nginx"
       }
     }

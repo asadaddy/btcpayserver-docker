@@ -302,3 +302,4 @@ Generated/traefik_logs/
 Generated/error
 
 
+docker-compose-generator/src/docker-fragments/
